@@ -1,20 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn MX
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278578.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn Mx op2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278588.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 2 MX
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/159320.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 2 mx op2
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/277642.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 3 mx
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278581.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 3 Mx op2
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278579.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 3 mx op3
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278580.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 3 mx op4
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/158828.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 4 Mx
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278584.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/6s608n.png", Espn 4 mx op2
